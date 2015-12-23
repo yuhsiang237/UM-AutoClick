@@ -1,0 +1,33 @@
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\bin\Debug\UM按鍵精靈.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\bin\Debug\UM按鍵精靈.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\bin\Debug\UM按鍵精靈.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\obj\Debug\UM按鍵精靈.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\obj\Debug\UM按鍵精靈.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\obj\Debug\UM按鍵精靈.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\obj\Debug\UM按鍵精靈.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\bin\Debug\UM按鍵精靈.exe.manifest
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\bin\Debug\UM按鍵精靈.application
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\obj\Debug\UM按鍵精靈.exe.manifest
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\obj\Debug\UM按鍵精靈.application
+C:\Users\user\Documents\Visual Studio 2008\Projects\UM按鍵精靈\UM按鍵精靈\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\obj\Debug\UM按鍵精靈.exe
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\obj\Debug\UM按鍵精靈.xml
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\obj\Debug\UM按鍵精靈.pdb
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\obj\Debug\UM按鍵精靈.vbproj.GenerateResource.Cache
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\bin\Debug\UM按鍵精靈.exe.manifest
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\bin\Debug\UM按鍵精靈.application
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\bin\Debug\UM按鍵精靈.exe
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\bin\Debug\UM按鍵精靈.pdb
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\bin\Debug\UM按鍵精靈.xml
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\obj\Debug\UM按鍵精靈.exe.manifest
+C:\Users\um\Desktop\UM按鍵精靈\UM按鍵精靈\obj\Debug\UM按鍵精靈.application
